@@ -1,0 +1,58 @@
+.title {
+  width: 100%;
+  font-size: 2.4rem;
+  line-height: 2.5rem;
+  letter-spacing: -0.08em;
+  text-transform: uppercase;
+}
+
+.image_not_found {
+  display: flex;
+  height: auto;
+  padding: 10px;
+}
+
+.image_not_found img {
+  min-height: 250px;
+  max-height: 350px;
+  min-width: 250px;
+  max-width: 350px;
+  margin: 0% auto 0%;
+}
+
+.info-title {
+  margin: 0px auto 24px;
+  font-family: 'Space Mono', monospace;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 4.8rem;
+  line-height: 7.1rem;
+  letter-spacing: -0.035em;
+}
+
+.info-error {
+  width: 100%;
+  margin: 30px auto 0px;
+  font-family: 'Space Mono', monospace;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.8rem;
+  line-height: 2.7rem;
+  letter-spacing: -0.035em;
+}
+
+button {
+  height: 68px;
+  width: 216px;
+  margin: 66px 0px 0px 0px;
+  font-family: 'Space Mono', monospace;
+  font-size: 1.4rem;
+  font-weight: bold;
+  line-height: 2.1rem;
+  letter-spacing: -0.035rem;
+  text-transform: uppercase;
+  color: white;
+  background-color: #333333;
+  outline: none;
+  border: none;
+}
